@@ -7,7 +7,7 @@ pip3 install -r requirements.txt
 
 ## How it works
 
-## Step 1: Convert geojson polygon to points/coordinates
+### Step 1: Convert geojson polygon to points/coordinates
 
 <p align="center">
 <img src="doc/GeoJSON.png" width="850"  style="display: block;  margin: 0 auto;"/>
